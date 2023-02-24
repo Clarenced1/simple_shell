@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-This is the simple shell project from Clarence and Arthur
-=======
+This the simple shell project from Clarence and Arthur
 0x16. C - Simple Shell
 
 Background Context
